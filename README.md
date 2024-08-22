@@ -76,4 +76,4 @@ requests for making API calls easy in Python.
 WeatherWise is a simple yet powerful tool for fetching real-time weather updates. Whether you're planning your day or just curious about the weather in another city, WeatherWise has got you covered. Try it out, and feel free to contribute or share your feedback to improve the project!
 
 ## License
-Distributed under the Apache Spark 2.0 License.
+Distributed under the Apache 2.0 License.
